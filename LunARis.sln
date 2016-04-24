@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{459C6793-0AD9-AE19-1EFF-0932122970D7}") = "LunARis", "Assembly-CSharp.csproj", "{B258E64D-0D84-3AF7-6BDB-F52B5D26654A}"
+EndProject
+Project("{459C6793-0AD9-AE19-1EFF-0932122970D7}") = "LunARis", "Assembly-CSharp-Editor.csproj", "{512E86EC-DF7E-E1FF-0D62-2C8C9BCA1C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B258E64D-0D84-3AF7-6BDB-F52B5D26654A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B258E64D-0D84-3AF7-6BDB-F52B5D26654A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B258E64D-0D84-3AF7-6BDB-F52B5D26654A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B258E64D-0D84-3AF7-6BDB-F52B5D26654A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512E86EC-DF7E-E1FF-0D62-2C8C9BCA1C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512E86EC-DF7E-E1FF-0D62-2C8C9BCA1C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512E86EC-DF7E-E1FF-0D62-2C8C9BCA1C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512E86EC-DF7E-E1FF-0D62-2C8C9BCA1C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
